@@ -2,10 +2,6 @@
    <img src="https://github.com/BerryUi/chartui/blob/main/media/chartui_background.png" alt="ChartUI" />
 </p>
 
-![example workflow](https://github.com/berryui/chartui/actions/workflows/<WORKFLOW_FILE>/badge.svg)
-
-![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
-
 <div align="center">
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-EA3223?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCrpv99uVD9ARYz8M0Cgf3g)
       [![Patreon Badge](https://img.shields.io/badge/-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/BerryUi)
