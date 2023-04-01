@@ -4,7 +4,7 @@
 
 ![example workflow](https://github.com/berryui/chartui/actions/workflows/<WORKFLOW_FILE>/badge.svg)
 
-
+![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 
 <hr>
 
