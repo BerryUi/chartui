@@ -9,6 +9,12 @@
       [![pub package](https://img.shields.io/pub/v/chartui.svg?style=for-the-badge)](https://pub.dev/packages/chartui)
 </div>
 
+<hr>
+
+## How to use
+
+#### Installation
+
 ChartUI is a free package for various data charts that make your app and website more interesting and have more utilization and visualization of data.In this package there more than 30+ charts will be published and a continuously new updated feature with cool stuff will be published and Free to use under Apache License.An animated chart will be added soon. 
 
 ## Features
