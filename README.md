@@ -6,6 +6,11 @@
 
 ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-EA3223?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCrpv99uVD9ARYz8M0Cgf3g)
+      [![Patreon Badge](https://img.shields.io/badge/-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/BerryUi)
+      [![BMC Badge](https://img.shields.io/badge/-Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=535353)](https://www.buymeacoffee.com/berryui)
+      [![pub package](https://img.shields.io/pub/v/chartui.svg?style=for-the-badge)](https://pub.dev/packages/chartui)
+
 <hr>
 
 ## How to use
