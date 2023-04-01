@@ -2,7 +2,7 @@
    <img src="https://github.com/BerryUi/chartui/blob/main/media/chartui_background.png" alt="ChartUI" />
 </p>
 <div align="center">
-      https://github.com/berryui/chartui/actions/workflows/<WORKFLOW_FILE>/badge.svg
+      ![example workflow](https://github.com/berryui/chartui/actions/workflows/<WORKFLOW_FILE>/badge.svg)
    
       [![YouTube Badge](https://img.shields.io/badge/-YouTube-EA3223?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCrpv99uVD9ARYz8M0Cgf3g)
       <!-- [![Mastodon Badge](https://img.shields.io/badge/-Mastodon-6169F6?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@watery_desert) -->
