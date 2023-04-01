@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/BerryUi/chartui/main/media/chartui-background.png" alt="ChartUI" />
+   <img src="https://github.com/BerryUi/chartui/blob/main/media/chartui_background.png" alt="ChartUI" />
 </p>
 <div align="center">
       [![YouTube Badge](https://img.shields.io/badge/-YouTube-EA3223?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCrpv99uVD9ARYz8M0Cgf3g)
